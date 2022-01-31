@@ -1,0 +1,35 @@
+<html>
+<head> <title> GROUP 22 </title></head>
+<body>
+<body background="BG.jpg">
+          
+ <a href="https://youtube.com" target="_blank">
+     <img src="CAE.jpg" width="25%" height="30%">
+</a>
+ 
+<style>
+      img{
+             position:relative;
+      }
+      h1{
+             color=black;position:absolute;right:200px;top:100px;
+     
+      }
+</style>
+   <img src="Note.jpg" wdith="80%" height="95%" align="right">
+     <h1> WELCOME TEACHERS!<h1>
+<br>
+<br>
+  
+            <a href="https://youtube.com" target="_blank"> 
+     <img src="MATH.jpg" width="25%" height="30%">
+</a>
+<br>
+<br>
+	    <a href="https://youtube.com" target="_blank">
+     <img src="CLE.jpg" width="23%" height="40%">
+</a>
+
+
+</body>
+</html>
